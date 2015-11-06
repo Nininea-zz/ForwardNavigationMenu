@@ -7,5 +7,4 @@ here is default configuration:
 
 but you can positions as you want: 
 
-![alt tag](https://github.com/Nininea/ForwardNavigationMenu/blob/master/screens/Screen2.png)
 ![alt tag](https://github.com/Nininea/ForwardNavigationMenu/blob/master/screens/Screen3.png)
