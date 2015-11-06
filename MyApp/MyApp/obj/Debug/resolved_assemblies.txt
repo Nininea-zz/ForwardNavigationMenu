@@ -1,0 +1,7 @@
+/Users/nininea/Projects/ForwardNavigationMenu/MyApp/MyApp/obj/Debug/assemblies/MyApp.dll
+/Users/nininea/Projects/ForwardNavigationMenu/MyApp/MyApp/obj/Debug/assemblies/System.dll
+/Users/nininea/Projects/ForwardNavigationMenu/MyApp/MyApp/obj/Debug/assemblies/System.Xml.dll
+/Users/nininea/Projects/ForwardNavigationMenu/MyApp/MyApp/obj/Debug/assemblies/Mono.Android.dll
+/Users/nininea/Projects/ForwardNavigationMenu/MyApp/MyApp/obj/Debug/assemblies/System.Core.dll
+/Users/nininea/Projects/ForwardNavigationMenu/MyApp/MyApp/obj/Debug/assemblies/ForwardNavigationMenu.dll
+/Users/nininea/Projects/ForwardNavigationMenu/MyApp/MyApp/obj/Debug/assemblies/mscorlib.dll

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<resources>
+    <declare-styleable name="ForwardNavigationMenu">
+        <attr name="fnmUnderlineColor" format="color" />
+        <attr name="fnmMargin" format="dimension" />
+        <attr name="fnmMarginTop" format="dimension" />
+        <attr name="fnmMarginRight" format="dimension" />
+        <attr name="fnmMarginLeft" format="dimension" />
+        <attr name="fnmMarginBottom" format="dimension" />
+        <attr name="fnmTabBackground" format="reference" />
+        <attr name="fnmContentPadding" format="dimension" />
+        <attr name="fnmPadding" format="dimension" />
+        <attr name="fnmPaddingTop" format="dimension" />
+        <attr name="fnmPaddingLeft" format="dimension" />
+        <attr name="fnmPaddingRight" format="dimension" />
+        <attr name="fnmPaddingBottom" format="dimension" />
+        <attr name="fnmTextAlpha" format="integer" />
+        <attr name="fnmTextStyle">
+            <flag name="normal" value="0x0" />
+            <flag name="bold" value="0x1" />
+            <flag name="italic" value="0x2" />
+        </attr>
+     
+    </declare-styleable>
+</resources>
