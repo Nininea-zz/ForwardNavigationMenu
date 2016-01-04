@@ -5,6 +5,6 @@ here is default configuration:
 
 ![alt tag](https://github.com/Nininea/ForwardNavigationMenu/blob/master/screens/Screen1.png)
 
-but you can positions as you want: 
+but you can change positions like this one: 
 
 ![alt tag](https://github.com/Nininea/ForwardNavigationMenu/blob/master/screens/Screen3.png)
